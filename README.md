@@ -87,6 +87,6 @@ Este proyecto está licenciado bajo la Licencia MIT. Para más detalles, revisa 
 7. Contacto
 Si tienes alguna pregunta o sugerencia, no dudes en contactar al autor:
 
-Autor: Tu Nombre
-Correo: tu.email@example.com
-Repositorio GitHub: GitHub
+Autor: Juan Pablo Corona
+Correo: jpablo.cnavarro@gmail.com
+Repositorio GitHub: (https://github.com/jpcorona/rut-validator)
