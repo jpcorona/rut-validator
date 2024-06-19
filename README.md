@@ -85,7 +85,7 @@ git push origin feature/nueva-funcionalidad
 Este proyecto está licenciado bajo la Licencia MIT. Para más detalles, revisa el archivo LICENSE.
 
 7. Contacto
-Si tienes alguna pregunta o sugerencia, no dudes en contactar al autor:
+Si tienes alguna pregunta o sugerencia, contáctame:
 
 Autor: Juan Pablo Corona
 Correo: jpablo.cnavarro@gmail.com
